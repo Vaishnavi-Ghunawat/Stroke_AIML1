@@ -4,7 +4,7 @@ import pandas as pd
 import joblib
 
 # Load the trained model
-model = joblib.load('/root/ML/model.pkl')
+model = joblib.load('model.pkl')
 
 # Streamlit app title
 st.title("Brain Stroke Prediction App")
