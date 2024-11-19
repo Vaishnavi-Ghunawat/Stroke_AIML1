@@ -1,0 +1,5 @@
+joblib
+scikit-learn
+streamlit
+pandas  # Add any other libraries you are using
+numpy
